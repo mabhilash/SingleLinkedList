@@ -4,7 +4,7 @@ import java.util.Hashtable;
 
 public class SingleLL {
 	static class Node {
-		public int data;
+		public int Data;
 		public Node next;
 	}
 
